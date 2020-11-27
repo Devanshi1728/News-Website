@@ -1,0 +1,34 @@
+{"headings": "\u2018India has helped over 150 countries in global fight against Covid-19\u2019: PM Modi ", "time": "Jul 17, 2020 21:33", "details": null}
+{"headings": "\u2018Making great progress through our inclusive policies\u2019: PM at UN Economic And Social Council Session", "time": "Jul 17, 2020 20:52", "details": null}
+{"headings": "Karnataka CM rules out extending lockdown in Bengaluru as Covid-19 cases spiral", "time": "Jul 17, 2020 20:33", "details": null}
+{"headings": "Second MP MLA quits, Congress says BJP insuring against losing bypolls ", "time": "Jul 17, 2020 20:02", "details": "MP\u2009Congress has alleged that BJP\u2009is indulging in horse trading in the state."}
+{"headings": "Assam flood kills 5 more; 36 lakh affected", "time": "Jul 17, 2020 19:41", "details": "One person each died in Dhubri, Darrang, Bongaigaon, Goalpara and Kamrup districts, the Assam State Disaster Management Authority (ASDMA) said in its bulletin."}
+{"headings": "Supreme Court rejects plea, clears deck for new Telangana Secretariat", "time": "Jul 17, 2020 19:34", "details": "The High Court for the state of Telangana situated at Hyderabad had dismissed a bunch of PILs on the same issue on June 29. One of the petitioners \u2013 senior Congress leader T Jeevan Reddy, approached the apex court against the HC verdict."}
+{"headings": "Jaishankar responds to 9 barbs from Rahul Gandhi on Twitter, then hurls his dart ", "time": "Jul 17, 2020 20:29", "details": "Foreign Minister\u2019s comeback to Rahul Gandhi also spotlighted the strategic missteps vis-a-vis Pakistan by the Congress-led UPA\u2009government during talks in Sharm-el-Sheikh and Havana "}
+{"headings": "Sachin Pilot\u2019s petition is not maintainable says Rajasthan speaker: All details here ", "time": "Jul 17, 2020 19:03", "details": "Sachin Pilot has challenged the disqualification notices sent by the Rajasthan assembly secretariat in  the high court.  "}
+{"headings": "Made to wait, Rajasthan cops finally enter hotel where team Pilot is camping ", "time": "Jul 17, 2020 20:31", "details": "There is heavy deployment of Haryana police personnel at the Manesar hotel. "}
+{"headings": "\u2018Visit home only when called\u2019: Junior defence minister in note to officers", "time": "Jul 17, 2020 18:53", "details": "The note further adds that Naik \u201cdesires that decorum be maintained at his office and residence\u201d. "}
+{"headings": "P Varavara Rao: NHRC issues notice to Maha, seeks health report within two weeks", "time": "Jul 17, 2020 20:25", "details": null}
+{"headings": "Of 3.42 lakh active Covid-19 cases in India, less than 1.9% are in ICU, says govt", "time": "Jul 17, 2020 18:30", "details": "It said the actual caseload of Covid-19 cases in the country as on date is 3,42,756, while more than 6.35 lakhs patients have recuperated from the disease."}
+{"headings": "Rs 71,229 crore tax refunds cleared so far in line with Centre\u2019s April promise", "time": "Jul 17, 2020 18:40", "details": "Pending cases of IT refunds could be expedited if taxpayers were able to respond quickly to e-mail queries raised, said the IT department. "}
+{"headings": "Nepal envoy raises safety of citizens with UP CM", "time": "Jul 17, 2020 18:07", "details": "Members of Vishwa Hindu Sena tonsured the Nepalese man and forced him to shout \u201cJai Sri Ram\u201d and anti-Nepal slogans in Varanasi on Thursday. The members of the group, who made a video of the incident, also wrote \u201cJai Sri Ram\u201d on his scalp."}
+{"headings": "20-yr-old attempts to meet girlfriend in Pakistan, gets caught by BSF near border", "time": "Jul 17, 2020 17:36", "details": "Siddiqui Mohammad Zishan had befriended the girl on Facebook and both of them had been in constant touch on social media via Facebook and Whatsapp. He wanted to go to Pakistan and had tried to use Google Maps for navigation."}
+{"headings": "Kerala HC red flags police\u2019s soft approach against the big fish in medical seats scandal", "time": "Jul 17, 2020 17:23", "details": "The cash-for-medical-seats  scandal was revealed in a sting operation conducted by a local news channel."}
+{"headings": "News updates from Hindustan Times: Police fired at Vikas Dubey in self defence, UP govt tells Supreme Court and all the latest news", "time": "Jul 17, 2020 16:58", "details": "Here are today\u2019s top news, analysis and opinion. Know all about the latest news and other news updates from Hindustan Times."}
+{"headings": "Rajasthan HC asks speaker to hold off on action against Sachin Pilot, 18 Cong MLAs; to resume hearing on Monday", "time": "Jul 17, 2020 18:23", "details": "The interim order of the high court came minutes before the deadline set by speaker CP Joshi\u2019s office for responding to the notice was to expire."}
+{"headings": "\u2018India has helped over 150 countries in global fight against Covid-19\u2019: PM Modi ", "time": null, "details": null}
+{"headings": "Jaishankar responds to 9 barbs from Rahul Gandhi on Twitter, then hurls his dart ", "time": null, "details": null}
+{"headings": "Made to wait, Rajasthan cops finally enter hotel where team Pilot is camping ", "time": null, "details": null}
+{"headings": "\u2018Hold off on action against Sachin Pilot till Tuesday\u2019: Court to speaker", "time": null, "details": null}
+{"headings": "Vettel fastest in rain-soaked 2nd practice for Hungarian Grand Prix", "time": null, "details": null}
+{"headings": "News updates from Hindustan Times: PM\u2009Modi says India has helped over 150 nations in fight against Covid-19 and all the latest news ", "time": null, "details": null}
+{"headings": "Allow wholesale fruit, veg markets to function in second phase of lockdown: APMC", "time": null, "details": null}
+{"headings": "Aaditya Thackeray seeks change in highway alignment to save 400-year-old banyan tree ", "time": null, "details": null}
+{"headings": "Allow wholesale fruit, veg markets to function in second phase of lockdown: APMC", "time": null, "details": null}
+{"headings": "Aaditya Thackeray seeks change in highway alignment to save 400-year-old banyan tree ", "time": null, "details": null}
+{"headings": "Principal secretary orders audit of Covid-19 treatment charges at Pune hospitals", "time": null, "details": null}
+{"headings": "Use money from PMC fixed deposits to buy medical equipment: Opposition ", "time": null, "details": null}
+{"headings": "On Priyanka Chopra\u2019s 38th birthday, check out her 10 best pics with in-laws", "time": null, "details": null}
+{"headings": "Sonam\u2019s Zoya Factor flopped because of Sushant\u2019s Chhichhore: Director", "time": null, "details": null}
+{"headings": "Gavaskar\u2019s 10,000 runs are equal to today\u2019s 16,000 or more: Ex-Pak captain", "time": null, "details": null}
+{"headings": "Bulbbul actor Avinash Tiwary has sharp reply to Balki\u2019s Ranbir-Alia comment", "time": null, "details": null}
